@@ -8,7 +8,7 @@
 
 @mixin h2 {
   text-align: center;
-  font-size: 48px;
+  font-size: 64px;
   font-weight: 300;
 }
 @mixin section {
@@ -27,7 +27,7 @@
       width: 100%;
       font-size: 14px;
       line-height: 32px;
-      background-color: #ccc;
+      background-color: #d3d3d3;
       padding: 0 10px;
       span {
         font-weight: bold;
